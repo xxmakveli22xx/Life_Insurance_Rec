@@ -1,0 +1,20 @@
+{
+  "name": "Life_Insurance_Rec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxmakveli22xx/Life_Insurance_Rec.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xxmakveli22xx/Life_Insurance_Rec/issues"
+  },
+  "homepage": "https://github.com/xxmakveli22xx/Life_Insurance_Rec#readme"
+}
